@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+jinja2
+pycaret
+scikit-learn
+pandas
