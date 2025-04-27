@@ -24,3 +24,28 @@ Because i wanted to apply more than 20+ binary classifiers on both the data to s
 4. After that, I implemented more than 20+ binery classifiers on count vectorizer's. Calculated results and measured them using accuracy, precision and recall.
 
 #### SCREEN SHOT'S FOR MODEL PERFORMANCE ON TFIDF TRANSFORMED DATA
+##### TFIDF TRANSFORMED DATA - ENSEMBEL TECHNIQUES
+![image](https://github.com/user-attachments/assets/7ffa3e15-059e-47ae-aa9b-9c20f5b53430)
+##### TFIDF TRANSFORMED DATA - TREE TECHNIQUES
+![image](https://github.com/user-attachments/assets/18fb49d9-8684-41b1-b326-dacb4b895e75)
+##### TFIDF TRANSFORMED DATA - NAIVE FAMILY
+![image](https://github.com/user-attachments/assets/c71fb7dd-8b89-466a-bac6-c61bf37e9796)
+##### TFIDF TRANSFORMED DATA - NEIGHBORS FAMILY
+![image](https://github.com/user-attachments/assets/6d2b63a8-3a28-43e1-b44f-6045c8225293)
+##### TFIDF TRANSFORMED DATA - SVM FAMILY
+![image](https://github.com/user-attachments/assets/e69e08f3-d0c8-4a4b-afd8-23de14987a05)
+
+#### SCREEN SHOT'S FOR MODEL PERFORMANCE ON COUNT TRANSFORMED DATA
+##### BAG OF WORD'S TRANSFORMED DATA - ENSEMBLE FAMILY
+![image](https://github.com/user-attachments/assets/2bcc08dc-0971-40fe-b9ab-290383e88773)
+##### BAG OF WORD'S TRANSFORMED DATA - TREE FAMILY
+![image](https://github.com/user-attachments/assets/ad8885fd-04e5-4ca0-b131-4dcf18e029f0)
+##### BAG OF WORD'S TRANFORMED DATA - NAIVE BAYES FAMILY
+![image](https://github.com/user-attachments/assets/61943f47-8df6-4582-b8f5-c5e1c75ce8a0)
+
+##### BAG OF WORD'S TRANSFORMED DATA - NEIGHBOR'S FAMILY
+![image](https://github.com/user-attachments/assets/0a158004-eb48-4b87-a439-51678eb9775e)
+##### BAG OF WORD'S TRANSFORMED DATA - SVM FAMILY
+![image](https://github.com/user-attachments/assets/22a43af2-2cd6-4c35-9262-9ac20a6abb47)
+
+
