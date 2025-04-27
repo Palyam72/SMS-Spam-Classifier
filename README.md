@@ -1,4 +1,5 @@
 # SMS-Spam-Classifier
+##### TRY THIS APP AT : https://huggingface.co/spaces/Rohith25Jan/SMS-Spam-Classifier
 A binary classifier which classifies SMS into Spam Or Ham. Very Helpful, Saves Us In cheated by others
 ![image](https://github.com/user-attachments/assets/a57f9f01-1688-44ed-8332-66b52241d9d5)
 ### MY APPROACH IN SOLVING THIS PROBLEM
@@ -49,4 +50,6 @@ Because i wanted to apply more than 20+ binary classifiers on both the data to s
 ##### BAG OF WORD'S TRANSFORMED DATA - SVM FAMILY
 ![image](https://github.com/user-attachments/assets/22a43af2-2cd6-4c35-9262-9ac20a6abb47)
 
-
+### OUTPUTS :
+![image](https://github.com/user-attachments/assets/b190f49f-752d-47b2-adf6-7f6cfa854421)
+![image](https://github.com/user-attachments/assets/45c73b9b-d9da-4fa2-9507-d56768fd94fe)
