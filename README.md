@@ -1,5 +1,5 @@
 # SMS-Spam-Classifier
-####### TRY THIS APP AT : https://huggingface.co/spaces/Rohith25Jan/SMS-Spam-Classifier
+##### TRY THIS APP AT : https://huggingface.co/spaces/Rohith25Jan/SMS-Spam-Classifier
 A binary classifier which classifies SMS into Spam Or Ham. Very Helpful, Saves Us In cheated by others
 ![image](https://github.com/user-attachments/assets/a57f9f01-1688-44ed-8332-66b52241d9d5)
 ### MY APPROACH IN SOLVING THIS PROBLEM
