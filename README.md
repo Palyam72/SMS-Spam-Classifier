@@ -1,6 +1,6 @@
 # SMS-Spam-Classifier
 A binary classifier which classifies SMS into Spam Or Ham. Very Helpful, Saves Us In cheated by others
-![image](https://github.com/user-attachments/assets/12ce112a-5c34-4bc9-b2b6-6493a2b95078)
+![image](https://github.com/user-attachments/assets/a57f9f01-1688-44ed-8332-66b52241d9d5)
 ### MY APPROACH IN SOLVING THIS PROBLEM
 ![SMS Spam Messages Classifier - visual selection (1)](https://github.com/user-attachments/assets/c37e8990-8790-41db-b529-da26540fa5a7)
 #### EXPLANATION TO MY APPROACH IN MOST SIMPLEST WAY
